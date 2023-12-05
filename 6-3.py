@@ -1,3 +1,3 @@
 print('Plz type any character and Enter...')
-str = input()
-print('You typed ' + str)
+user_input = input()
+print('You typed ' + user_input)
